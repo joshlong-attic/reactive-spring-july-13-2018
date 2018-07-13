@@ -1,2 +1,3 @@
-# reactive-spring-july-13-2018
-the code for the online training conducted July 13, 2018
+# Reactive Spring Training 
+
+the code for the [online training conducted July 13, 2018](https://www.safaribooksonline.com/live-training/courses/reactive-spring-boot/0636920183075/)
